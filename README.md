@@ -109,7 +109,7 @@ X축은 연도를, Y축은 매출 금액을 나타내며, 각 세그먼트는 �
 
 ## 9. 제품 대분류별 중분류별 제품명별 매출액 데이터 분석 시각화
 - 계층 그래프
-- ![img](계층그래프_지역별.png)
+![image](https://github.com/user-attachments/assets/1582a1d3-ef32-46a7-a8b2-30cfc6232f88)
 - 설명 : 
 
 
@@ -117,7 +117,7 @@ X축은 연도를, Y축은 매출 금액을 나타내며, 각 세그먼트는 �
 
 ## 10. 국가별 지역별 시도별 시군구별 지도 데이터 분석 시각화
 - 지리적 역할 그래프 
-- ![img](지리적역할그래프.png)
+![image](https://github.com/user-attachments/assets/bd5f4efa-3f92-4a64-8e01-3ff036941771)
 - 설명 : 
 
 
