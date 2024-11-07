@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/5bfb5dd2-cb9a-4d1f-8ee4-09e98179974a)# tableau
 
 
 ## 1. 고객별 재구매 시기 데이터 분석 시각화
