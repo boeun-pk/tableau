@@ -56,7 +56,7 @@ X축은 연도를, Y축은 매출 금액을 나타내며, 각 세그먼트는 �
   <tr>
     <td align="center">
       <b>막대 그래프</b><br>
-      <img src="월별매출연도비교_막대.png" width="400"/>
+      <img src="https://github.com/user-attachments/assets/7c439272-8c85-42bf-b579-60de8c87824c" width="400"/>
     </td>
     <td align="center">
       <b>라인 그래프</b><br>
