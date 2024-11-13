@@ -176,3 +176,7 @@ X축은 연도를, Y축은 매출 금액을 나타내며, 각 세그먼트는 �
 - ![image](https://github.com/user-attachments/assets/96ef83e6-0cec-44a5-ac4a-794f93ec9bdb)
 
 
+## 17. 도넛 차트 
+- 주문일자별 제품 대분류별 고객 세그먼트별 매출 
+- ![image](https://github.com/user-attachments/assets/ed6ade33-b53f-49d7-863f-137be8c86fe7)
+
