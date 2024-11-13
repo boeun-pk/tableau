@@ -168,3 +168,10 @@ X축은 연도를, Y축은 매출 금액을 나타내며, 각 세그먼트는 �
 - 차이 시각화 그래프
 - ![image](https://github.com/user-attachments/assets/ed94e414-68a9-4dc7-ad4d-55f642452b3b)
 
+
+
+
+## 16. 파이 차트 
+- 고객 세그먼트별 매출과 비율
+- ![image](https://github.com/user-attachments/assets/acc9b09d-fd76-47a3-951c-265b1706505d)
+
