@@ -204,6 +204,7 @@ X축은 연도를, Y축은 매출 금액을 나타내며, 각 세그먼트는 �
 - ![image](https://github.com/user-attachments/assets/a4da3daf-1da5-418d-be60-5bf370e7a73f)
 
 
-
-
+## 21. 태블로 활용 
+- chat gpt 출시 이후 일자리 수의 변화 - 업워크 데이터 활용
+![image](https://github.com/user-attachments/assets/1452db0b-dc22-4845-b167-f40a10d00174)
 
